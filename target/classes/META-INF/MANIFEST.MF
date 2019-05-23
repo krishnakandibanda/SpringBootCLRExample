@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootCLRExample
+Implementation-Version: 1.0
+Built-By: KRISHNA
+Implementation-Vendor-Id: com.krishnatech
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootCLRExample
+Created-By: Maven Integration for Eclipse
+
